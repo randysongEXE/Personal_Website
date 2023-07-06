@@ -247,7 +247,7 @@
       mirror: false
     })
   });
-k
+
   /**
    * Initiate Pure Counter 
    */
